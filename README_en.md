@@ -1,5 +1,7 @@
 # Authorship attribution
 
+<a href="https://www.kaggle.com/d0rj3228/authorship-attribution"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" title="View full version on Kaggle" /></a>
+
 ## Overview
 
 Coursework on data processing.
