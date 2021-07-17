@@ -10,10 +10,12 @@
 
 Строются свёрточные НС с 3мя и 4мя параллельными входными слоями, обрабатывающие триграммную форму предложений.
 
-
 ## Ход выполнения скриптов
 
-[*create_dataset.ipynb*](/create_dataset.ipynb) -> [*dataset_preprocessing.ipynb*](/dataset_preprocessing.ipynb) -> [*analysys.ipynb*](/analysys.ipynb)
+| 1 | 2 | 3 |
+| :-: |:-:| :-:|
+| [*create_dataset.ipynb*](/create_dataset.ipynb) | [*dataset_preprocessing.ipynb*](/dataset_preprocessing.ipynb) | [*analysys.ipynb*](/analysys.ipynb) |
+| [![Create dataset](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)](https://nbviewer.jupyter.org/github/d0rj/AuthorshipAttribution/blob/main/create_dataset.ipynb) | [![Preprocessing](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)](https://nbviewer.jupyter.org/github/d0rj/AuthorshipAttribution/blob/main/dataset_preprocessing.ipynb) | [![Analysys](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)](https://nbviewer.jupyter.org/github/d0rj/AuthorshipAttribution/blob/main/analysys.ipynb) |
 
 Скрипты выплняются полностью последовательно. Первые два не нуждаются в вычислителях мощнее средней рабочей санции (ноутбука, к примеру).
 
